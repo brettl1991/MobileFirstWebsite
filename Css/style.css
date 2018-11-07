@@ -6,3 +6,10 @@ body {
     background: #eee;
     height: auto;
 }
+
+h1 {
+    fofnt-weight: 400;
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    margin: 0;
+}
