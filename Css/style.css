@@ -8,7 +8,7 @@ body {
 }
 
 h1 {
-    fofnt-weight: 400;
+    font-weight: 400;
     font-size: 2.5rem;
     text-transform: uppercase;
     margin: 0;
@@ -108,7 +108,7 @@ footer h3 {
 
 /* Screen sizes 500px and up */
 @media (min-width: 500px) {
-    #landing {
+    .landing {
         display: flex;
         height: 100%;
     }
