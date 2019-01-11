@@ -5,7 +5,7 @@
   "main": "index.js",
   "homepage": "https://brettl1991.github.io/MobileFirstWebsite",
   "scripts": {
-    "testone": "echo \"node-sass -w scss/ -o Css/ --recrusive\""
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
