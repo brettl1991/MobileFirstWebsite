@@ -1,0 +1,20 @@
+{
+  "name": "build-a-responsive-mobile-first-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://brettl1991.github.io/MobileFirstWebsite",
+  "scripts": {
+    "testone": "echo \"node-sass -w scss/ -o Css/ --recrusive\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brettl1991/MobileFirstWebsite.git"
+  },
+  "author": "Agnes Brettl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brettl1991/MobileFirstWebsite/issues"
+  },
+  "homepage": "https://github.com/brettl1991/MobileFirstWebsite#readme"
+}
